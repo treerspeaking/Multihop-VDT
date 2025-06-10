@@ -1,0 +1,9 @@
+[submodule "RAGChain"]
+	path = RAGChain
+	url = https://github.com/HaiAu2501/RAGChain
+[submodule "MultihopRAG_VDT"]
+	path = MultihopRAG_VDT
+	url = https://github.com/BFCmath/MultihopRAG_VDT
+[submodule "ReAct"]
+	path = ReAct
+	url = https://github.com/treerspeaking/ReAct
